@@ -56,7 +56,14 @@
 
 [png resizer](https://onlinepngtools.com/resize-png)
 
+[VeryPDF PDFPrint Command Line](https://www.verypdf.com/pdfprint/pdf-print-cmd.html)
+
+[PDFtoPrinter: Command-line PDF printing](http://www.columbia.edu/~em36/pdftoprinter.html)
+
 [View non-printable unicode characters](https://www.soscisurvey.de/tools/view-chars.php)
+
+[HTML Symbols - Unicode symbols, entities and codes
+](https://www.htmlsymbols.xyz/)
 
 ## 系统/网络/安全
 
@@ -73,8 +80,6 @@
 [**Shodan Search Engine** Search Engine for the Internet of Everything](https://www.shodan.io/)
 
 ## 其他
-
-[万年日历查询](https://wannianrili.bmcx.com/)
 
 [**html5test** how well does your browser support html5?](https://html5test.com/)
 
