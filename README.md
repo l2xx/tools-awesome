@@ -88,3 +88,5 @@
 [NC Viewer](https://ncviewer.com/)
 
 [GB/T 2260-2007 中华人民共和国行政区划代码](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C9C488FD717AFDCD52157F41C3302C6D)
+
+[**LightShot** The fastest way to take a customizable screenshot](https://app.prntscr.com/en/index.html)
