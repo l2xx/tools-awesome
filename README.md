@@ -10,6 +10,8 @@
 
 [Bootstrap Icons](https://icons.getbootstrap.com/)
 
+[png resizer](https://onlinepngtools.com/resize-png)
+
 [Sass Color Generator](http://scg.ar-ch.org/)
 
 [HTML Color Codes](https://htmlcolorcodes.com/)
@@ -53,8 +55,6 @@
 [The All-in-One PowerPoint Add-in](https://en.islide.cc/)
 
 [CodeToImg](https://codetoimg.com/)
-
-[png resizer](https://onlinepngtools.com/resize-png)
 
 [VeryPDF PDFPrint Command Line](https://www.verypdf.com/pdfprint/pdf-print-cmd.html)
 
