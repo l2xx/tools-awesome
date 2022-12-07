@@ -1,29 +1,21 @@
 # tools-awesome
 
-## 图标/颜色/设计
+## 图标/图片/颜色/设计
 
-[Simply beautiful open source icons](https://feathericons.com/)
+图标：[Simply beautiful open source icons](https://feathericons.com/) | [Simple Icons](https://simpleicons.org/) | [iconfont](https://www.iconfont.cn/) | [Bootstrap Icons](https://icons.getbootstrap.com/) 
 
-[Simple Icons](https://simpleicons.org/)
+图片：[Unsplash](https://unsplash.com/) | [Pixabay](https://pixabay.com/)
 
-[iconfont](https://www.iconfont.cn/)
+图片压缩：[Image Compressor](https://smallseotools.com/image-compressor/) | [Image Compressor](https://imagecompressor.com/)
 
-[Bootstrap Icons](https://icons.getbootstrap.com/)
+图片其他处理：[png resizer](https://onlinepngtools.com/resize-png)
 
-[png resizer](https://onlinepngtools.com/resize-png)
+颜色：[Sass Color Generator](http://scg.ar-ch.org/) | [HTML Color Codes](https://htmlcolorcodes.com/)
+| [🎨 Material Design Colors, Color Palette | Material UI](https://materialui.co/colors/)
 
-[Sass Color Generator](http://scg.ar-ch.org/)
+Logo: [Free Logo Maker](https://www.shopify.com/tools/logo-maker) | [FAVICON GENERATOR](https://favicon.io/favicon-generator/)
 
-[HTML Color Codes](https://htmlcolorcodes.com/)
-
-[🎨 Material Design Colors, Color Palette | Material UI](https://materialui.co/colors/)
-
-
-[FAVICON GENERATOR](https://favicon.io/favicon-generator/)
-
-[Free Logo Maker](https://www.shopify.com/tools/logo-maker)
-
-[Free Sound](https://freesound.org/)
+声音：[Free Sound](https://freesound.org/)
 
 ## 加密/哈希
 
