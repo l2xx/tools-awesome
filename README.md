@@ -2,13 +2,13 @@
 
 ## 图标/图片/颜色/设计
 
-图标：[Simply beautiful open source icons](https://feathericons.com/) | [Simple Icons](https://simpleicons.org/) | [iconfont](https://www.iconfont.cn/) | [Bootstrap Icons](https://icons.getbootstrap.com/) 
+图标：[Simply beautiful open source icons](https://feathericons.com/) | [Simple Icons](https://simpleicons.org/) | [iconfont](https://www.iconfont.cn/) | [Bootstrap Icons](https://icons.getbootstrap.com/) | [flaticon](https://www.flaticon.com/)
 
 图片：[Unsplash](https://unsplash.com/) | [Pixabay](https://pixabay.com/)
 
 图片压缩：[Image Compressor](https://smallseotools.com/image-compressor/) | [Image Compressor](https://imagecompressor.com/)
 
-图片其他处理：[png resizer](https://onlinepngtools.com/resize-png)
+图片其他处理：[png resizer](https://onlinepngtools.com/resize-png) | [easyappicon](https://easyappicon.com/)
 
 颜色：[Sass Color Generator](http://scg.ar-ch.org/) | [HTML Color Codes](https://htmlcolorcodes.com/)
 | [🎨 Material Design Colors, Color Palette | Material UI](https://materialui.co/colors/)
