@@ -8,7 +8,7 @@
 
 图片压缩：[Image Compressor](https://smallseotools.com/image-compressor/) | [Image Compressor](https://imagecompressor.com/)
 
-图片其他处理：[png resizer](https://onlinepngtools.com/resize-png) | [easyappicon](https://easyappicon.com/)
+图片其他处理：[png resizer](https://onlinepngtools.com/resize-png)
 
 颜色：[Sass Color Generator](http://scg.ar-ch.org/) | [HTML Color Codes](https://htmlcolorcodes.com/)
 | [🎨 Material Design Colors, Color Palette | Material UI](https://materialui.co/colors/)
